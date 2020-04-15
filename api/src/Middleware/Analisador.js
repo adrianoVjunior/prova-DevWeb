@@ -58,22 +58,8 @@ module.exports = {
         let resultRegra8 = regra8 === true ? 20 : resultRegra7
         let resultRegra9 = regra9 === true ? 30 : resultRegra8
 
-        let resultado = {
-            idade,
-            resultRegra2,
-            resultRegra3,
-            resultRegra4,
-            resultRegra5,
-            resultRegra6,
-            resultRegra7,
-            resultRegra8,
-            resultRegra9
-        }
-
         var LimiteDisponivel = (salarioBruto / 100) * resultRegra9
 
         return LimiteDisponivel
     }
-
-
 }
