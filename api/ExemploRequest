@@ -1,0 +1,10 @@
+{
+	"nome":"teste",
+  "cpf":14020510844,
+  "dataNascimento":"1999-12-23 00:00:00",
+  "salarioBruto":1000,
+  "qtdDependentes":0,
+  "empregado":true,
+  "tempoEmpregado":8,
+  "restricaoSerasa":false
+}
