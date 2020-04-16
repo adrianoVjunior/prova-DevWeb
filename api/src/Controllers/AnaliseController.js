@@ -5,7 +5,7 @@ module.exports = {
 
         return response.json({
             "Mensagem": "Sucesso",
-            "Limite Disponível": resultadoAnalise
+            "Limite_Disponivel": resultadoAnalise
         })
     }
 }
